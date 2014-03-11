@@ -1,4 +1,5 @@
 coding_scripts
 ==============
 
-Coding Scripts
+Scripts to clean up code and convert to news methods of doing things.
+
